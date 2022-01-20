@@ -1,2 +1,2 @@
 # mxzn-docs
-docs
+mxzn docs
