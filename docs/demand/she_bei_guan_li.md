@@ -1,6 +1,6 @@
-# 产品
+# 设备管理
 
-*展示当前账号下所有产品* [原型图](https://www.figma.com/file/eANefR82JBl5YxxYgVqyQu/mxzn?node-id=2%3A2)
+*展示当前账号下所有产品和设备* [原型图](https://www.figma.com/file/eANefR82JBl5YxxYgVqyQu/mxzn?node-id=2%3A2)
 
 - [产品列表](#产品列表)
   - [产品详情](#产品详情)
@@ -35,3 +35,5 @@
   "total": "number"
 }
 ```
+
+# 产品列表
