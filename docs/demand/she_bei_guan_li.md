@@ -1,6 +1,6 @@
 # 设备管理
 
-*展示当前账号下所有产品和设备* [原型图](https://www.figma.com/file/eANefR82JBl5YxxYgVqyQu/mxzn?node-id=2%3A2)
+展示当前账号下所有产品和设备 [原型图](https://www.figma.com/file/eANefR82JBl5YxxYgVqyQu/mxzn?node-id=2%3A2)
 
 - [产品列表](#产品列表)
   - [产品详情](#产品详情)
@@ -8,32 +8,21 @@
 - [设备列表](#设备列表)
   - [设备详情](#设备详情)
   - [物模型](#物模型)
+  - [GPS](#GPS)
 
-**API**
-请求示例:
+#### 产品列表
 
-```json
-{
-  "method": "GET",
-  "params": {
-    "productName": "name",
-    "status": "publish",
-    "productType": "1",
-    "cate": "1",
-    "company": "1"
-  }
-}
-```
+产品列表展示了当前账号下所拥有的产品, 可根据产品名称查找.
 
-返回数据示例
+![logo](images/shebeiguanli_1.png ':size=1075x555')
 
-```json
-{
-  "list": [],
-  "current": "number",
-  "pageSize": "number",
-  "total": "number"
-}
-```
+[接口信息](apis/index.md?id=产品列表)
 
-# 产品列表
+>
+
+##### 产品详情
+
+
+
+
+

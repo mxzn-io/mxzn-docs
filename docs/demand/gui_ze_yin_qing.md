@@ -1,6 +1,24 @@
 # 规则引擎
 
-*展示当前账号下已经配置的规则列表* [原型图](https://www.figma.com/file/eANefR82JBl5YxxYgVqyQu/mxzn?node-id=2%3A6)
+规则引擎让用户对设备作更精细化的设置, 例如在以下场景，主动邮件通知用户
+1. 当设备的某个物模型变量超出或低于正常区间.
+2. 希望设备在固定时间，或每隔一段时间完成其它操作时(路灯每天晚8点到早6点亮)
+[原型图](https://www.figma.com/file/eANefR82JBl5YxxYgVqyQu/mxzn?node-id=2%3A6)
 
+!> **新建规则引擎前, 必须存在一条通知配置  [通知配置](demand/tong_zhi_guan_li.md)**
+
+- [新建规则](#新建规则)
 - [规则列表](#规则列表)
-    - [新建规则](新建规则)
+
+#### 新建规则
+
+新建规则，选择触发器类型, 然后选择对应的产品及设备
+
+![logo](images/guizeyinqing_1.png ':size=1012x665')
+
+[接口信息](apis/index.md?id=产品列表)
+
+
+#### 规则列表
+
+查看规则列表
