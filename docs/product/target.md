@@ -20,4 +20,4 @@
   场景1: 账户 -> 子账户 -> 农场 -> 产品 -> 设备  
   假如兰桂琪作为我们的客户(client)，他有各个分公司(c1, c2, c3...)，每个分公司管理不同的产品设备，总公司账号可以看见各个分公司农场产品设备信息，但分公司之间不能看到彼此的农场信息
 
-  ![logo](images/rules.png ':size=1095x771')
+  ![logo](https://mxzn-docs.oss-cn-hongkong.aliyuncs.com/images/rules.png ':size=1095x771')

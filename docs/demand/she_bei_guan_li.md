@@ -14,7 +14,7 @@
 
 产品列表展示了当前账号下所拥有的产品, 可根据产品名称查找.
 
-![logo](images/shebeiguanli_1.png ':size=1075x555')
+![logo](https://mxzn-docs.oss-cn-hongkong.aliyuncs.com/images/shebeiguanli_1.png ':size=1075x555')
 
 [接口信息](apis/index.md?id=产品列表)
 

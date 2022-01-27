@@ -13,7 +13,7 @@
 
 点击页面通知管理-> 通知模板, 点击新建通知模板, 新建一个通知模板.
 
-![logo](images/tongzhipeizhi_1.png ':size=934x438')
+![logo](https://mxzn-docs.oss-cn-hongkong.aliyuncs.com/images/tongzhipeizhi_1.png ':size=934x438')
 
 #### 模板列表  
 填入模板名称，收件人等.

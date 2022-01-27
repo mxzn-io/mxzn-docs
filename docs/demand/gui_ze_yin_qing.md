@@ -14,7 +14,7 @@
 
 新建规则，选择触发器类型, 然后选择对应的产品及设备
 
-![logo](images/guizeyinqing_1.png ':size=1012x665')
+![logo](https://mxzn-docs.oss-cn-hongkong.aliyuncs.com/images/guizeyinqing_1.png ':size=1012x665')
 
 [接口信息](apis/index.md?id=产品列表)
 

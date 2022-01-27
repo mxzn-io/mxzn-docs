@@ -10,7 +10,7 @@
 
 产品卡片展示了主要产品的设备状态信息，如智能水渠，农机终端等，client账户若无此产品则卡片状态信息如在线离线设备等默认为0
 
-![logo](images/card.png ':size=1188x160')
+![logo](https://mxzn-docs.oss-cn-hongkong.aliyuncs.com/images/card.png ':size=1188x160')
 
 [接口信息](apis/index.md?id=产品列表)
 
@@ -18,7 +18,7 @@
 
 设备总数, 报警，展示了当前账号下设备占比及设备报警信息，(每隔1分钟更新一次)
 
-![logo](images/main_1.png ':size=1047x347')
+![logo](https://mxzn-docs.oss-cn-hongkong.aliyuncs.com/images/main_1.png ':size=1047x347')
 
 [接口信息](apis/index.md?id=产品列表)
 
