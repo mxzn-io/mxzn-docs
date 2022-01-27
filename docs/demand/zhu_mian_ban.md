@@ -1,6 +1,8 @@
 # 主面板
 
-主面板展示当前账户下主要产品设备概览信息, 分为以下两大块  [原型图](https://www.figma.com/file/eANefR82JBl5YxxYgVqyQu/mxzn?node-id=0%3A1)
+主面板展示当前账户下主要产品设备概览信息, 分为以下两大块 
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FeANefR82JBl5YxxYgVqyQu%2Fmxzn%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
 
 - [产品卡片](#产品卡片)
 - [设备总数及占比](#设备总数及占比)

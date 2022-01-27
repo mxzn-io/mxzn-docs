@@ -1,6 +1,8 @@
 # 系统设置 
 
-管理系统下角色和用户 [原型图](https://www.figma.com/file/eANefR82JBl5YxxYgVqyQu/mxzn?node-id=2%3A6)
+管理系统下角色和用户 
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FeANefR82JBl5YxxYgVqyQu%2Fmxzn%3Fnode-id%3D2%253A10" allowfullscreen></iframe>
 
 - [新建角色](#新建角色)
 - [角色管理](#角色列表)

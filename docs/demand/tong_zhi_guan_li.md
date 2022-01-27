@@ -2,7 +2,8 @@
 
 通知管理允许用户设置不同方式的通知，例如邮件，微信，钉钉等, 目前系统只支持邮件通知方式。  
 在设置通知配置前，需要先设置一个通知模板。 
-[原型图](https://www.figma.com/file/eANefR82JBl5YxxYgVqyQu/mxzn?node-id=2%3A6)
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FeANefR82JBl5YxxYgVqyQu%2Fmxzn%3Fnode-id%3D2%253A8" allowfullscreen></iframe>
 
 - [新建模板](#新建模板)
 - [模板列表](#模板列表)
