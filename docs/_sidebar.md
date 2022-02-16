@@ -1,6 +1,7 @@
 - 一. 系统 
 
     - [需求](product/target.md)
+    - [BUGS](product/bugs.md)
 
 - 二. 前端页面
 
